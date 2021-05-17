@@ -26,7 +26,7 @@ const data = {
   timebit: {
     ios: null,
     android:
-      "https://play.google.com/store/apps/details?id=vn.eplus.smeplatform",
+      "https://play.google.com/store/apps/details?id=vn.eplus.news",
   },
   netvas: {
     ios: "https://apps.apple.com/us/app/netvas-company/id1523015148",
